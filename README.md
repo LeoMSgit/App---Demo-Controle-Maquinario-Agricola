@@ -54,7 +54,8 @@ Solução completa para gestão de:
 ## 📸 Demonstração Visual
 | Console Mode                  | Graphical Interface             |
 |-------------------------------|---------------------------------|
-| ![Console - Versão Demo](docs/screenshots/console_mode.png) | ![GUI - Versão 3.0](https://i.imgur.com/Lo61pnZ.png) |
+| ![Console - Versão Demo](docs/screenshots/console_mode.png) | ![GUI - Versão 3.0](https://i.imgur.com/Lo61pnZ.png)
+[Adicionar Máquina](https://i.imgur.com/iIzKh9m.png)|
 
 ## 📂 Estrutura do Projeto
 ```plaintext
