@@ -1,4 +1,6 @@
 ✅ Resumo da Versão 3.0 – Controle de Máquinas Agrícolas
+
+
 🔧 Funcionalidades Implementadas
 Atualização da Estrutura do Banco de Dados
 Adicionadas novas colunas à tabela de máquinas:
@@ -33,6 +35,8 @@ Nova Feature: Cadastro de Fazendas
 Inclusão de novas fazendas via campo de input.
 
 Remoção de fazendas com atualização automática do menu.
+
+---
 
 📌 Próximos Passos
 ✅ Adicionar cadastro e gerenciamento de peças.
