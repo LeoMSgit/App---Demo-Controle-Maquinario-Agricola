@@ -2,45 +2,45 @@
 
 ---
 🔧 Funcionalidades Implementadas
-Atualização da Estrutura do Banco de Dados
-Adicionadas novas colunas à tabela de máquinas:
+- Atualização da Estrutura do Banco de Dados
+- Adicionadas novas colunas à tabela de máquinas:
 
-codigo
+  -codigo
 
-nome
+  -nome
 
-modelo
+  -modelo
 
-categoria
+  -categoria
 
-fazenda
+  -fazenda
 
-renavam
+  -renavam
 
-placa
+  -placa
 
-alugado
+  -alugado
 
-Aprimoramento da Interface Gráfica (GUI)
-Interface mais intuitiva e funcional usando PyQt6, com melhorias em layout, formulários e responsividade.
+- Aprimoramento da Interface Gráfica (GUI)
+- Interface mais intuitiva e funcional usando PyQt6, com melhorias em layout, formulários e responsividade.
 
-Nova Feature: Cadastro de Máquinas
+- Nova Feature: Cadastro de Máquinas
 
-Adição de máquinas com os novos campos completos.
+- Adição de máquinas com os novos campos completos.
 
-Remoção de máquinas diretamente pela interface.
+- Remoção de máquinas diretamente pela interface.
 
-Nova Feature: Cadastro de Fazendas
+- Nova Feature: Cadastro de Fazendas
 
-Inclusão de novas fazendas via campo de input.
+- Inclusão de novas fazendas via campo de input.
 
-Remoção de fazendas com atualização automática do menu.
+- Remoção de fazendas com atualização automática do menu.
 
 ---
 
 📌 Próximos Passos
-✅ Adicionar cadastro e gerenciamento de peças.
+-  Adicionar cadastro e gerenciamento de peças.
 
-✅ Exibir dados detalhados das máquinas na interface.
+-  Exibir dados detalhados das máquinas na interface.
 
-✅ Listar peças associadas a cada máquina, com visualização clara e ordenada.
+-  Listar peças associadas a cada máquina, com visualização clara e ordenada.
