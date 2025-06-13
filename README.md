@@ -58,11 +58,11 @@ Solução completa para gestão de:
 
 ----------------------------------------------------------------
 
-- Graphical Interface
+- Graphical Interface (GUI - Versão 3.0)
 
-GUI - Versão 3.0 ![](https://i.imgur.com/Lo61pnZ.png)
+ -  Main Window ![](https://i.imgur.com/Lo61pnZ.png)
 
-Adicionar Máquina ![](https://i.imgur.com/iIzKh9m.png) 
+ - Adicionar Máquina ![](https://i.imgur.com/iIzKh9m.png) 
 
 ## 📂 Estrutura do Projeto
 ```plaintext
