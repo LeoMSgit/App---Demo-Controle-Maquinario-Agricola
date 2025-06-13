@@ -52,9 +52,11 @@ Solução completa para gestão de:
 </p>
 
 ## 📸 Demonstração Visual
-| Console Mode                  | Graphical Interface             |
+| Console Mode                  | 
+| ![Console - Versão Demo](docs/screenshots/console_mode.png) |
 |-------------------------------|---------------------------------|
-| ![Console - Versão Demo](docs/screenshots/console_mode.png) | ![GUI - Versão 3.0](https://i.imgur.com/Lo61pnZ.png) |
+| Graphical Interface             |
+| ![GUI - Versão 3.0](https://i.imgur.com/Lo61pnZ.png) |
 | [Adicionar Máquina](https://i.imgur.com/iIzKh9m.png)|
 
 ## 📂 Estrutura do Projeto
