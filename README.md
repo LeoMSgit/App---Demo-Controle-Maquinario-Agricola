@@ -62,7 +62,7 @@ Solução completa para gestão de:
 
 | ![GUI - Versão 3.0](https://i.imgur.com/Lo61pnZ.png) |
 
-| [Adicionar Máquina](https://i.imgur.com/iIzKh9m.png) |
+| ![Adicionar Máquina](https://i.imgur.com/iIzKh9m.png) |
 
 ## 📂 Estrutura do Projeto
 ```plaintext
