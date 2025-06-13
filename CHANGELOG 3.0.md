@@ -1,6 +1,6 @@
 ✅ Resumo da Versão 3.0 – Controle de Máquinas Agrícolas
 
-
+---
 🔧 Funcionalidades Implementadas
 Atualização da Estrutura do Banco de Dados
 Adicionadas novas colunas à tabela de máquinas:
