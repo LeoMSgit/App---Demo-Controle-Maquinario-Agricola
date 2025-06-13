@@ -1,6 +1,6 @@
 # 🚜 Controle de Maquinário Agrícola - SmartFarm Manager
 
-![Dashboard Preview](https://i.imgur.com/Lo61pnZ.png)
+![Dashboard Preview]()
 *Sistema profissional para gestão de equipamentos agrícolas - Versão 3.0*
 
 ## 🌟 Destaques do Projeto
