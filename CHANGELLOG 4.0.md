@@ -9,6 +9,7 @@
 4 - Aprimorar UI
 
 
+
 ### TO DO (Versão 5.0)
 
 1 - Criar página de visualização das peças
@@ -18,6 +19,7 @@
 3 - Criar lógica de combinação peças e maquinas possíveis
 
 4 - Aprimorar UI
+
 
 
 ### TO DO (Versão Final)
