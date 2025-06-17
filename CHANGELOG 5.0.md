@@ -18,7 +18,7 @@
 
 1 - Barra de Pesquisa
 
-2 - Opção de Edição
+2 - Opção de Edição de Dados Inseridos
 
 3 - Possibilidade de Adicionar Imagens de Peças e Máquinas
 
