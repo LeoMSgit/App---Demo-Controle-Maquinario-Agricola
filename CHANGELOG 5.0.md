@@ -1,10 +1,15 @@
 ### DONE (Versão 4.0)
 
 1 - Criar página de visualização das peças
+
 2 - Criar lógica de remoção de peças
+
 3 - Criar Opção de Ordenação Crescente e Decrescente para Colunas
+
 4 - Separação da lógica de Ordenação em novo arquivo
+
 5 - Criar lógica de combinação peças e maquinas possíveis
+
 6 - Aprimorar UI
 
 
@@ -12,8 +17,11 @@
 ### TO DO (Versão 5.0)
 
 1 - Barra de Pesquisa
+
 2 - Opção de Edição
+
 3 - Possibilidade de Adicionar Imagens de Peças e Máquinas
+
 4 - Aprimorar UI
 
 
