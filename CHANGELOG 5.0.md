@@ -11,6 +11,11 @@
 5 - Criar lógica de combinação peças e maquinas possíveis
 
 6 - Aprimorar UI
+- Headers reordenáveis com feedback visual.
+
+- Manutenção de estado: ordem e largura das colunas persistem ao reabrir.
+
+- Ajuste automático de tamanho de colunas e experiência responsiva.
 
 
 
