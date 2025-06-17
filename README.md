@@ -60,7 +60,7 @@ Solução completa para gestão de:
 
 - Graphical Interface (GUI - Versão 3.0)
 
-  -  Main Window ![](https://i.imgur.com/Lo61pnZ.png)
+  -  Aba Visualização Máquinas ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_5.png?token=GHSAT0AAAAAADEFJC4M7FIJWORRIGBKH45M2CQ2KEQ)
 
   - Adicionar Máquina ![](https://i.imgur.com/iIzKh9m.png) 
 
