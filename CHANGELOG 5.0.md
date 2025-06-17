@@ -29,7 +29,7 @@
 - Ajuste automático de tamanho de colunas e experiência responsiva.
 
 
-
+---
 ### TO DO (Versão 6.0)
 
 1 - Barra de Pesquisa
@@ -40,7 +40,7 @@
 
 4 - Aprimorar UI
 
-
+---
 ### TO DO (Versão Final)
 
 1 - Criar página de visualização de informações mais detalhadas sobre cada máquina (tempo de uso, ultima troca, valor da troca, etc)
