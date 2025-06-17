@@ -1,4 +1,4 @@
-### DONE (Versão 4.0)
+### DONE (Versão 5.0)
 
 1 - Criar página de visualização das peças
 
@@ -14,7 +14,7 @@
 
 
 
-### TO DO (Versão 5.0)
+### TO DO (Versão 6.0)
 
 1 - Barra de Pesquisa
 
