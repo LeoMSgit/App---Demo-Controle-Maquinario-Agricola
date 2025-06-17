@@ -32,6 +32,7 @@
 2 - Sincronização com Google Drive ou outra Nuvem
    - Banco de Dados
    - Configurações Visual dos Menus
+
 3 - Implementação de Senha e Usuários
 
 4 - Possibilidade de Adicionar Imagens de Peças e Máquinas
