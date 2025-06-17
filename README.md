@@ -1,7 +1,7 @@
 # 🚜 Controle de Maquinário Agrícola - SmartFarm Manager
 
 ![Dashboard Preview]()
-*Sistema profissional para gestão de equipamentos agrícolas - Versão 3.0*
+*Sistema profissional para gestão de equipamentos agrícolas - Versão 5.0*
 
 ## 🌟 Destaques do Projeto
 Solução completa para gestão de:
@@ -58,11 +58,15 @@ Solução completa para gestão de:
 
 ----------------------------------------------------------------
 
-- Graphical Interface (GUI - Versão 3.0)
+- Graphical Interface (GUI - Versão 5.0)
 
   -  Aba Visualização Máquinas ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_5.png?token=GHSAT0AAAAAADEFJC4M7FIJWORRIGBKH45M2CQ2KEQ)
 
-  - Adicionar Máquina ![](https://i.imgur.com/iIzKh9m.png) 
+  - Adicionar Máquina ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_7.png?token=GHSAT0AAAAAADEFJC4MM2NOER762U2P5PG42CQ2LOQ) 
+
+  - Aba Visualização Peças ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_6.png?token=GHSAT0AAAAAADEFJC4NWUEBHMFEMHRGEOLQ2CQ2LPQ)
+ 
+  - Adicionar Peça ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_8.png?token=GHSAT0AAAAAADEFJC4NBCNYOYVUYCTID45Q2CQ2LRA)
 
 ## 📂 Estrutura do Projeto
 ```plaintext
