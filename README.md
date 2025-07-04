@@ -60,13 +60,13 @@ Solução completa para gestão de:
 
 - Graphical Interface (GUI - Versão 5.0)
 
-  -  Aba Visualização Máquinas[](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_5.png?token=GHSAT0AAAAAADEFJC4M7FIJWORRIGBKH45M2CQ2KEQ)
+  -  Aba Visualização Máquinas[](https://github.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/blob/main/Prints/Screenshot_5.png)
 
-  - Adicionar Máquina ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_7.png?token=GHSAT0AAAAAADEFJC4MM2NOER762U2P5PG42CQ2LOQ) 
+  - Adicionar Máquina ![](https://github.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/blob/main/Prints/Screenshot_7.png) 
 
-  - Aba Visualização Peças ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_6.png?token=GHSAT0AAAAAADEFJC4NWUEBHMFEMHRGEOLQ2CQ2LPQ)
+  - Aba Visualização Peças ![](https://github.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/blob/main/Prints/Screenshot_6.png)
  
-  - Adicionar Peça ![](https://raw.githubusercontent.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/refs/heads/main/Prints/Screenshot_8.png?token=GHSAT0AAAAAADEFJC4NBCNYOYVUYCTID45Q2CQ2LRA)
+  - Adicionar Peça ![](https://github.com/LeoMSgit/App-Controle-Maquinario-Agricola-Privado/blob/main/Prints/Screenshot_8.png)
 
 ## 📂 Estrutura do Projeto
 ```plaintext
